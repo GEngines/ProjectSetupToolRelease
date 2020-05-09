@@ -1,0 +1,9 @@
+﻿{
+  "A": 
+  {
+    "port": "_server_",
+    "user": "_user_",
+    "workspace": "_workspace_",
+    "project_root": "_root_dir_"
+  }
+}
